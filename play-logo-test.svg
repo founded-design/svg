@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 679.86 679.86">
+  <g id="P_Top_Triangle" data-name="P Top Triangle">
+    <g>
+      <rect width="679.86" height="679.86" style="fill: none;"/>
+      <g>
+        <polygon points="175.58 518.77 384.05 518.77 271.23 443.98 175.58 518.77" style="fill: #00242a;"/>
+        <path d="M403.65,161.09c-.17,0-.34.01-.51.01v202.24c.17,0,.34.01.51.01,55.9,0,100.63-45.74,100.63-101.64s-45.74-100.62-100.63-100.62Z" style="fill: currentcolor;"/>
+        <polygon points="317.63 161.09 175.58 161.09 317.63 272.15 317.63 161.09" style="fill: #00242a;"/>
+      </g>
+    </g>
+  </g>
+</svg>
